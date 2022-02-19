@@ -17,7 +17,11 @@ In this project we analyzed My Uber-2016 data
       <img alt="jupyter" width="26px"  src="https://img.icons8.com/color/48/000000/microsoft-excel-2019--v1.png">
     </code>
 </p>
+- Cleaned the data using Microsoft Excel
+- Performed exploratory data analysis using jupyter notebook and drove insights from the data.
+- Created an interactive Power BI Dashboard to visually represent the insights.
 
+## Insights
 From this data we come up with followinng insights
 1. Maximum number of Ubers were taken on "Friday".
 2. Almost 71.6% of ubers were taken for distances less than or equal to 10 Km.
@@ -30,6 +34,7 @@ From this data we come up with followinng insights
 9. Most of the rides ended at Cary.
 10. 29% ubers were taken for Meeting purposes and 24.5% for Meals/Entertainment.
 
+## Dashboard
 We also prepared a Dashboard 
 
 <img src="https://github.com/Mehak0268/uber_data_analysis/blob/main/Dashboard.png">
